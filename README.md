@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of sijad/flarum-spoiler.** Not for installation: use [Packagist](https://packagist.org/packages/sijad/flarum-spoiler) or the [upstream repository](https://github.com/sijad/flarum-ext-spoiler).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/sijad-flarum-spoiler/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.3`
+**2** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/sijad-flarum-spoiler/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.3`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2016-01-29 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/sijad-flarum-spoiler/tree/archive/v0.1.0) |
+| `0.1.1` | 2016-02-25 | `^0.1.0-beta.3` | [Browse](https://github.com/flarchive/sijad-flarum-spoiler/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/sijad-flarum-spoiler.json](https://github.com/flarchive/archive-index/blob/main/packages/sijad-flarum-spoiler.json)
 
